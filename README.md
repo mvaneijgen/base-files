@@ -1,2 +1,4 @@
-# pimpampet
-My version of the game Pim Pam Pet 
+# Base files
+
+* Grunt
+* Jekyll
