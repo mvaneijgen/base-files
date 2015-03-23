@@ -15,7 +15,7 @@ baseurl: "http://mvaneijgen.nl/"
 twitter_username: mvaneijgen
 github_username:  mvaneijgen
 
-default_image: /tile-wide.png
+default_image: tile-wide.png
 
 # Pre-processing
 
@@ -37,20 +37,14 @@ tag_items: 20     # Applies to categories and tags lists
 recent_items: 10  # Applies to recent posts, apps lists
 related_items: 5  # Applies to related posts and apps lists
 
-# Layout
-
-pagebar: true # Show (true) page sidebar menu or hide (false) 
-postbar: true # Show (true) post sidebar or hide (false) 
-
 # Features
 
-reading_time: true    # Show est. reading time for posts
 facebook: false       # Use facebook features
-comments: disqus      # Switch disqus | facebook | none - comments. facebook = true required for facebook comments
+comments: none      # Switch disqus | facebook | none - comments. facebook = true required for facebook comments
 
 # Embeds
 
-disqus_name: opentheme            # Your site name at Disqus
+disqus_name: 		              # Your site name at Disqus
 
 youtube_controls: 0               # Turn on=1/off=0 Youtube player features when embedding videos
 

@@ -1,21 +1,21 @@
 # Site settings
 
-title: Upcoming Vita Games
+title: 
 tagline: By mvaniejgen.nl
 email: mvaneijgen@gmail.com
 copyright: M van Eijgen
-keywords: Vita games upcoming playstation unity psn 
+keywords: 
 
-description: This website displays all the upcoming vita games with a screenshot of the game and links to both the game website and developer website. This is a personal project by M van Eijgen to create a visual pleasing overview of all the Playstation Vita games.
+description: 
 
 # the base hostname & protocol for your site
-url: "http://mvaneijgen.nl/upcoming-vita-games"
+url: ""
 baseurl: ""
 
 twitter_username: mvaneijgen
 github_username:  mvaneijgen
 
-default_image: http://i.imgur.com/HagSD8L.jpeg
+default_image: tile-wide.png
 
 # Pre-processing
 
@@ -37,20 +37,14 @@ tag_items: 20     # Applies to categories and tags lists
 recent_items: 10  # Applies to recent posts, apps lists
 related_items: 5  # Applies to related posts and apps lists
 
-# Layout
-
-pagebar: true # Show (true) page sidebar menu or hide (false) 
-postbar: true # Show (true) post sidebar or hide (false) 
-
 # Features
 
-reading_time: true    # Show est. reading time for posts
-facebook: false        # Use facebook features
-comments: disqus      # Switch disqus | facebook | none - comments. facebook = true required for facebook comments
+facebook: false       # Use facebook features
+comments: none      # Switch disqus | facebook | none - comments. facebook = true required for facebook comments
 
 # Embeds
 
-disqus_name: opentheme            # Your site name at Disqus
+disqus_name: 		              # Your site name at Disqus
 
 youtube_controls: 0               # Turn on=1/off=0 Youtube player features when embedding videos
 
@@ -61,7 +55,7 @@ google_map_height: 450            # Default map height. Width adjusts to contain
 # API Keys. PLEASE DO NOT USE THESE KEYS. Get your own at links in comments.
 
 google_api_key: "" # https://code.google.com/apis/console/
-google_analytics_ua: "UA-59691551-1" # Google Analytics site specific id
+google_analytics_ua: "" # Google Analytics site specific id
 google_cse_id: "" # Google Custom Search Engine unique id
 
 mapbox: ""
